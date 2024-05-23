@@ -1,5 +1,8 @@
 body {
   background-color: skyblue;
 }
+body ul {
+  list-style-type: lower-greek;
+}
 
 /*# sourceMappingURL=app.css.map */
